@@ -1,0 +1,22 @@
+{
+  "name": "salama",
+  "version": "1.0.0",
+  "description": "An authentication solution for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node index.js"
+  },
+  "keywords": [
+    "authentication",
+    "node.js",
+    "mongo"
+  ],
+  "author": "Njunge Njenga",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.0.10"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
