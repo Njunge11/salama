@@ -7,9 +7,9 @@ const request = {
     url: 'mongodb://localhost:27017'
   },
   request: {
-    userName: 'John Doe',
-    email: 'johndoe@gmail.com',
-    password: 'thesecretpassword'
+    userName: 'Test man',
+    email: 'testman@gmail.com',
+    password: 'thestrongestpasswordintheworldw'
   }
 }
 new Salama().registerUser(request)
