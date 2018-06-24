@@ -14,7 +14,8 @@
   "author": "Njunge Njenga",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^3.0.10"
+    "mongodb": "^3.0.10",
+    "secure-password": "^3.0.0"
   },
   "devDependencies": {
     "standard": "^11.0.1"

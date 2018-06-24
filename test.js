@@ -13,3 +13,5 @@ const request = {
   }
 }
 new Salama().registerUser(request)
+  .then(result => console.log(result))
+  .catch(error => console.log(error))
